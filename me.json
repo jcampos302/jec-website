@@ -1,0 +1,14 @@
+{
+    "firstName": "Jorge",
+    "lastName": "Campos",
+    "age": "20",
+    "favoriteColor": "Orange",
+    "videogame": {
+        "first": "Arma3",
+        "second": "Squad",
+        "thrid": "minecraft"
+    },
+    "email": "jorgeecampos@lewisu.edu",
+    "city": "Chicago",
+    "favoriteHobby": "Lockpicking"
+}
