@@ -1,0 +1,12 @@
+{
+	"firstName": "Guy",
+	"lastName": "Fawkes",
+	"age": "35",
+	"birhPlace": "yorkEngland",
+	"occupation": {
+		"first": "Soldier",
+		"second": "Explosives"
+	},
+	"email": "guyfawkes@lewisu.edu",
+	"favoriteHobby": "highTreason"
+}
